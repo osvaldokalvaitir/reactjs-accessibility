@@ -1,8 +1,8 @@
 import Image from 'next/image'
 
-import LogoImg from '../assets/logo.svg'
+import LogoImg from '@/assets/logo.svg'
 
-import styles from '../styles/Home.module.css'
+import styles from '@/styles/Home.module.css'
 
 export default function Home() {
   return (
