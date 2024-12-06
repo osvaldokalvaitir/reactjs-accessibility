@@ -33,7 +33,7 @@ export default function Home() {
         </article>
       </main>
 
-      <footer className={styles.header}>
+      <footer className={styles.footer}>
         <Image src={LogoImg} width={286 / 2} alt="Blog da Rocketseat" />
 
         <nav className={styles.nav} aria-label="Rodapé">
